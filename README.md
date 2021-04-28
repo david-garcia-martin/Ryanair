@@ -1,6 +1,6 @@
 # Ryanair Declined Payment Test
 
-This test suite is designed to automate a booking up to a declined payment on Ryanair website. However, it's written in a way that additional test cases can be added for the different pages that appear in the process of getting this message since this project has only been developed to confirm the declined payment message.
+This test suite is designed to automate a booking up to a declined payment on Ryanair website. However, it's written in a way that additional test cases can be added for the different pages that appear in the process of getting this message.
 
 ## Structure
 * common
