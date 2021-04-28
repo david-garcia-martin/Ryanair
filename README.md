@@ -4,7 +4,7 @@ This test suite is designed to automate a booking up to a declined payment on Ry
 
 ## Structure
 * common
-	- ***common_functions.py*** includes all functions shared along the project. In addition, all configuration parameters are parsered here. Since Selenium WebDriver is used, sometimes websites takes a little bit longer to load. So an updated version of the methods have been created to wait for the elements to appear.
+	- ***common_functions.py*** includes all functions shared along the project. In addition, all configuration parameters are parsered here. Selenium WebDriver is used and sometimes websites takes a little bit longer to load, so an updated version of the methods have been created to wait for the elements to appear.
 	- ***html_reports_template.html*** and ***six.py*** are used to generate the html report at the end of the testing.
 	- ***Ryanair_config.txt*** consists on a .txt file that stores all configuration variables for the environment and the test cases such as web browser type, credit card information, login information, origing and destination airports, etc. 
 * rynair_test
