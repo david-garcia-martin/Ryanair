@@ -1,0 +1,23 @@
+[ryanair-config]
+
+html_report_folder = ryanair_reports
+
+browser = Chrome
+url = https://www.ryanair.com/ie/en
+
+email = gmdavidgarcia@gmail.com
+password = Ryanair1!
+
+origin = DUB
+destination = MAD
+adults = 2
+children = 1
+
+phone_number = 12345678
+cc = 5555 5555 5555 5557
+cc_cvv = 265
+address = 123 W Sheridan Rd
+address2 = Apartment 2401
+city = Madrid
+country = Spain
+zip_code = 28027
