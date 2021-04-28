@@ -29,7 +29,7 @@ alias python=/usr/local/bin/python3
 
 ### HtmlTestRunner: https://github.com/oldani/HtmlTestRunner
 ```bash
-pip install html-testRunner
+sudo pip install html-testRunner
 ```
 
 ### Selenium 
